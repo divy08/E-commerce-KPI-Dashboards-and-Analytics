@@ -1,6 +1,6 @@
 Dataset Link - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
-### 🛒 E-commerce KPI Dashboards and Analytics
+# 🛒 E-commerce KPI Dashboards and Analytics
 
 ## 🚀 Welcome to the Ultimate E-commerce Analytics Toolkit!
 Are you ready to transform raw data into actionable insights? Whether you're diving deep into customer behavior, forecasting future sales, or optimizing your business strategy, this project has got you covered. Let's embark on a data journey that turns numbers into narratives and insights into impact!
@@ -26,11 +26,11 @@ This repository is a data enthusiast's dream come true! We've packed it with too
 ## 🏗️ Project Structure
 Here’s how the project is laid out:
 
-# 🗂 Root Directory
+### 🗂 Root Directory
 README.md: This file, guiding you through the project.
 archive/: Storehouse of data and models.
 myenv/: The engine room with scripts and models ready to power your analytics.
-# 📁 Archive Directory
+### 📁 Archive Directory
 Delve into the archive folder for:
 
 all notebooks/: A treasure trove of Jupyter notebooks for data wrangling, visualization, and modeling. Highlights include:
@@ -40,7 +40,7 @@ dashboard_visualization.ipynb: Create interactive dashboards that pop!
 decisionTree.joblib: A ready-to-go Decision Tree model.
 merged_df.csv: A comprehensive dataset combining various data sources.
 rfm_addf.csv & rfm_df.csv: Datasets tailored for RFM (Recency, Frequency, Monetary) analysis.
-# 📝 Myenv Directory
+### 📝 Myenv Directory
 The myenv folder is your command center:
 
 Python Scripts:
@@ -83,23 +83,23 @@ Copy code
 python myenv/app.py
 
 ## 🎯 Usage
-# 🖥️ Bringing Your Data to Life
+### 🖥️ Bringing Your Data to Life
 Fire up the dashboard by running one of the app.py scripts in the myenv directory. Explore interactive visuals that bring your e-commerce KPIs to life. Whether you're tracking sales, customer engagement, or marketing performance, this dashboard is your ultimate companion.
 
-# 📊 Analyze, Visualize, Optimize!
+## 📊 Analyze, Visualize, Optimize!
 The notebooks in archive/all notebooks are your playground. Use them to:
 
 Clean and prepare data for robust analysis.
 Perform RFM analysis to segment your customers like a pro.
 Train machine learning models to forecast future sales or predict customer churn.
-🔮 Predict and Prosper
+##🔮 Predict and Prosper
 With pre-trained models at your disposal, you can:
 
 Predict customer behavior and take proactive measures to retain high-value customers.
 Forecast sales trends and optimize your inventory, marketing, and sales strategies.
 
-# 🧠 Sample Insights
-# 💡 What Can You Discover?
+## 🧠 Sample Insights
+## 💡 What Can You Discover?
 Here’s a taste of what you can uncover:
 
 Top-performing products: Identify which products are driving the most revenue.
@@ -107,8 +107,8 @@ Customer segments: Use RFM analysis to discover who your most valuable customers
 Churn risks: Predict which customers are at risk of leaving and take action to retain them.
 Sales forecasts: Anticipate future sales and align your business strategy accordingly.
 
-# 🤝 Contributing
-#🌟 Join the Mission!
+## 🤝 Contributing
+## 🌟 Join the Mission!
 We’re on a mission to make e-commerce data analytics accessible and powerful for everyone. Want to help? Here’s how:
 
 Fork the repository and create a new branch.
