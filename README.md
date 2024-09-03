@@ -57,31 +57,6 @@ Miscellaneous:
 hi: (Purpose TBD—stay tuned!).
 id_mapping.pkl: Ensures your data is consistently accurate.
 
-## 🛠 Installation
-⚙️ Let's Get You Set Up!
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/E-commerce-KPI-Dashboards-and-Analytics.git
-cd E-commerce-KPI-Dashboards-and-Analytics-main
-Create a Virtual Environment:
-
-bash
-Copy code
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-Install Dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
-Run the Magic: Launch the KPI dashboard or any other app:
-
-bash
-Copy code
-python myenv/app.py
-
 ## 🎯 Usage
 ### 🖥️ Bringing Your Data to Life
 Fire up the dashboard by running one of the app.py scripts in the myenv directory. Explore interactive visuals that bring your e-commerce KPIs to life. Whether you're tracking sales, customer engagement, or marketing performance, this dashboard is your ultimate companion.
